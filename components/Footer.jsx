@@ -4,7 +4,7 @@ export default function Footer() {
     return (
         <footer className="flex flex-col justify-center items-center">
             <p>Built by {" "}
-            <a className="hover:underline" href="https://github.com/gutibran" noreferrer="true" target="_blank">Brandon Gutierrez
+            <a className="hover:underline" href="https://github.com/gutibran" rel="noreferrer" target="_blank">Brandon Gutierrez
             </a>
             </p>
 

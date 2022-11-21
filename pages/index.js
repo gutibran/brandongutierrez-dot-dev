@@ -26,28 +26,28 @@ export default function Index() {
                         width="250"
                         height="250"
                     />
-                    <p className="my-8 md:mx-24 lg:mx-44 2xl:mx-96 leading-6 font-mono">I am currently studying for a B.S. in Electrical Engineering at Texas State University in San Marcos, TX. I dabble in software engineering and cybersecurity. I have built some projects to apply what I've learned from self studying various topics within web development, computer science, computer networking, and cybersecurity. I am interested in robotics and artificial intelligence. It is what I aim on specializing in. If you would like to contact me, send a DM via LinkedIn, send me an email, or call me if you can find my number on this site. I like competitive programming and participating in CTFs on the internet on sites such as TryHackMe, HackTheBox, PicoCTF, LeetCode, and CodeChef. I am working on making this site better. The image is highly compressed.</p>
+                    <p className="my-8 md:mx-24 lg:mx-44 2xl:mx-96 leading-6 font-mono">I am currently studying for a B.S. in Electrical Engineering at Texas State University in San Marcos, TX. I dabble in software engineering and cybersecurity. I have built some projects to apply what I&apos;ve learned from self studying various topics within web development, computer science, computer networking, and cybersecurity. I am interested in robotics and artificial intelligence. It is what I aim on specializing in. If you would like to contact me, send a DM via LinkedIn, send me an email, or call me if you can find my number on this site. I like competitive programming and participating in CTFs on the internet on sites such as TryHackMe, HackTheBox, PicoCTF, LeetCode, and CodeChef. I am working on making this site better. The image is highly compressed.</p>
                     <ul className="flex gap-4 flex-wrap justify-center items-center">
                         <li>
-                            <a className="flex flex-row justify-center items-center border-2 border-gray-800 gap-2 w-32 p-2 hover:bg-yellow-300" href="https://linkedin.com/in/branguti" target="_blank" noreferrer="true">
+                            <a className="flex flex-row justify-center items-center border-2 border-gray-800 gap-2 w-32 p-2 hover:bg-yellow-300" href="https://linkedin.com/in/branguti" target="_blank" rel="noreferrer">
                                 <AiFillLinkedin className="h-8 w-8" />
                                 <span>LinkedIn</span>
                             </a>
                         </li>
                         <li>
-                            <a className="flex flex-row justify-center items-center border-2 border-gray-800 gap-2 w-32 p-2 hover:bg-yellow-300" href="https://github.com/gutibran" target="_blank" noreferrer="true">
+                            <a className="flex flex-row justify-center items-center border-2 border-gray-800 gap-2 w-32 p-2 hover:bg-yellow-300" href="https://github.com/gutibran" target="_blank" rel="noreferrer">
                                 <AiFillGithub className="h-8 w-8" />
                                 <span>GitHub</span>
                             </a>
                         </li>
                         <li>
-                            <a className="flex flex-row justify-center items-center border-2 border-gray-800 gap-2 w-32 p-2 hover:bg-yellow-300" href="mailto:bran09123@gmail.com" target="_blank" noreferrer="true">
+                            <a className="flex flex-row justify-center items-center border-2 border-gray-800 gap-2 w-32 p-2 hover:bg-yellow-300" href="mailto:bran09123@gmail.com" target="_blank" rel="noreferrer">
                                 <AiOutlineMail className="h-8 w-8" />
                                 <span>E-mail</span>
                             </a>
                         </li>
                         <li>
-                            <a className="flex flex-row justify-center items-center border-2 border-gray-800 gap-2 w-32 p-2 hover:bg-yellow-300" href="/brandonGutierrezResume.pdf" target="_blank" noreferrer="true">
+                            <a className="flex flex-row justify-center items-center border-2 border-gray-800 gap-2 w-32 p-2 hover:bg-yellow-300" href="/brandonGutierrezResume.pdf" target="_blank" rel="noreferrer">
                                 <GrDocumentText className="h-8 w-8" />
                                 <span>Résumé</span>
                             </a>
